@@ -1,0 +1,26 @@
+{
+  "name": "servidor-mongo-db-devlights",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veron-Juan/Servidor-Mongo-db-Devlights.git"
+  },
+  "keywords": [],
+  "author": "Juan Veron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veron-Juan/Servidor-Mongo-db-Devlights/issues"
+  },
+  "homepage": "https://github.com/Veron-Juan/Servidor-Mongo-db-Devlights#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2"
+  }
+}
